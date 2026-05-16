@@ -1,0 +1,32 @@
+{
+  "addressCity": "",
+  "addressCountry": "",
+  "addressHouseNumber": "",
+  "addressPostalCode": "",
+  "addressStreet": "",
+  "createdAt": "2026-04-24T09:28:54Z",
+  "emailAddress": "godowow793@soppat.com",
+  "emailVerification": 1,
+  "gender": "0",
+  "guid": "C358D60D-E172-4E95-901F-F950AA877F97",
+  "id": 398,
+  "identityTokens": [],
+  "legalVerification": "[{\"agreed\":true,\"lastUpdate\":1777023164068,\"type\":\"terms\"}]",
+  "nameFirst": "",
+  "nameLast": "",
+  "params": "{}",
+  "penaltyList": [],
+  "preferences": "{}",
+  "profile": {
+    "capPermissionLevel": 3,
+    "id": 2,
+    "status": 1,
+    "tenant": 13
+  },
+  "profiles": "0185",
+  "registeredVehicles": [],
+  "salutation": "Mr",
+  "status": 1,
+  "userDataLockedStatus": 0,
+  "userIdCode": "6e7934cd-3f43-4d79-9db2-eefde7e55707"
+}

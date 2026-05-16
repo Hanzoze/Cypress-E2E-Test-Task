@@ -1,0 +1,16 @@
+{
+  "result": "ACCESS_OK",
+  "sessionExpiry": "2026-11-12T10:52:05.721+0000",
+  "sessionId": "d26hbQxauoaNBw0G1fOfiRH55fziqCATbOMllrIFMZJM3",
+  "user": {
+    "firstName": "",
+    "lastName": "",
+    "payment": {
+      "purchases": [],
+      "meansList": [],
+      "transactions": []
+    },
+    "login": "godowow793@soppat.com",
+    "userId": "b23c22cd-6c72-415e-9584-1c8f01ee160d"
+  }
+}
